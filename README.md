@@ -73,11 +73,11 @@ including the influence of the parents' educational background, test preparation
 
 ## :eyes: Quick look at the data
   In this section we just look at the data using some commands 
-    ![plot](./Capture2.PNG)
+    ![plot](./images/Capture2.PNG)
 
   
 ## :zap: Visualize missing values
-  ![plot](./Capture0.PNG)
+  ![plot](./images/Capture0.PNG)
 
 
 Using matrix can very quickly find the pattern of missingness in the dataset. 
@@ -92,7 +92,7 @@ Using matrix can very quickly find the pattern of missingness in the dataset.
   
   
 ## :hammer_and_wrench: Data Visualization 
-  ![plot](./Capture1.PNG)
+  ![plot](./images/Capture1.PNG)
 
   
   From the above visualization we infer:
