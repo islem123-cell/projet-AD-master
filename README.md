@@ -86,6 +86,7 @@ Using matrix can very quickly find the pattern of missingness in the dataset.
   
 ## :white_check_mark: Data Preparation.
   ==> For a particular course, the total marks is 100. So let's set passmark has 35 marks.
+  
   Let's create three new columns: Total_Marks, Percentage and grade
   
   
@@ -102,6 +103,10 @@ Majority of students received B grade followed by C.
 More female students received A and B Grade relative to male students.
 More number of boys received D and E grade.
 Almost similar number of both, male and female, got F grade.
+
+
+## :hourglass_flowing_sand: Conclusion
+Academic Performance is the outcome of education. It is the level of educational goals a person has achieved. To pursuing of academic performance satisfies an amount of purposes. Students have spots of failure and achievement in their academic career and this has to be assessed in order to promote improvement and make use of educational development. In educational institutions, success is measured by academic performance. 
 
 
 
