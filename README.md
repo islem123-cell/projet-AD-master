@@ -88,7 +88,8 @@ Using matrix can very quickly find the pattern of missingness in the dataset.
   ==> For a particular course, the total marks is 100. So let's set passmark has 35 marks.
   
   Let's create three new columns: Total_Marks, Percentage and grade
-  
+      ![plot](./images/Capture.PNG)
+
   
   
   
